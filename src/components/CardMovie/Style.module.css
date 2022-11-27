@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.img {
+    width: 200px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon {
+    border-radius: 50%;
+    background-color: #fff;
+    margin: 0 5px;
+}
